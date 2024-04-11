@@ -1,0 +1,4 @@
+type: "dockerfile-deploy"
+repositoryName: "test-docker"
+artifactName: "test-docker"
+testCommand: "bats *"
