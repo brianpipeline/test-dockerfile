@@ -3,3 +3,4 @@ repositoryName: "test-docker2"
 artifactName: "test-docker2"
 testCommand: "bats test.bats"
 
+
